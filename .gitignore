@@ -26,8 +26,6 @@
 # SSH Keys & Key Pairs
 # ============================================================
 # Private and public keys used for EC2 access
-tera-key
-tera-key.pub
 *.pem
 *.key
 id_rsa
